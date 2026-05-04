@@ -1,0 +1,51 @@
+🚀 Jensen Huang: "CEOs With a God Complex" Are Killing AI's Public Trust — And America Is About to Lose Another Race
+
+🎥 https://www.youtube.com/watch?v=pMjWLDvnApg
+
+🖼️ Thumbnail: https://img.youtube.com/vi/pMjWLDvnApg/maxresdefault.jpg
+
+In the most pointed interview of his career, Nvidia's CEO went on the SCSP "Memos to the President" podcast and torched the AI doom industrial complex — by name and by behavior. He paired it with a sober warning: the U.S. is repeating its 5G mistake on AI, and the window to fix it is closing fast.
+
+Here's what he actually said:
+
+⸻
+
+Key Takeaways
+
+1️⃣ The "God Complex" Call-Out 👑
+"Somehow, because they became CEOs, they adopt a God complex." Without naming names, Huang tore into fellow tech executives — implicitly Anthropic's Dario Amodei and others — for circulating doomsday forecasts (like "AI will wipe out 50% of new college grad jobs"). He called the rhetoric "counter-productive, and in fact hurtful," arguing it's poisoning public sentiment at the worst possible moment.
+
+2️⃣ "We Lost the 5G Wave. We Cannot Allow That to Happen Again." 📡
+"We lost it through technology, through policy, through bad strategic thinking." Huang's blunt post-mortem on America's telecom collapse was the centerpiece of his policy pitch. The same scattershot industrial planning, fragmented spectrum rules, and short-termism that handed 5G to Huawei now threaten to hand AI/6G to Beijing — and Huang says Washington has months, not years, to course-correct.
+
+3️⃣ Physical AI Is the Next ChatGPT Moment 🤖
+"The ChatGPT moment for general robotics is just around the corner." Huang framed the next leap of AI not as bigger chatbots but as machines that can "perceive, reason, plan, and act" in the physical world — factories, warehouses, surgical suites, kitchens. Combined with NVIDIA's Cosmos and Isaac platforms, he believes humanoids and autonomous systems are weeks-to-months away from their breakout consumer moment.
+
+4️⃣ "There's a 20% Chance AI Is Existential? That's Ridiculous." ⚠️
+Huang took direct aim at the "p(doom)" wing of the AI safety movement, calling existential-risk percentages "nonsensical" and "ridiculous." He didn't say AI is risk-free — he said the framing is. His view: AI is a tool, like the internet or electricity, and treating it as an apocalyptic event makes serious safety work harder, not easier.
+
+5️⃣ The "Enriched Uranium" Lunacy 🧪
+"We're not enriched uranium. It's a chip — and it's a chip they can make themselves." Huang ridiculed the analogies equating GPU exports to nuclear proliferation, arguing they distort policy and hand the field to Chinese domestic alternatives. With Nvidia's China market share now effectively 0%, the export-control regime is, in his telling, achieving the opposite of its intent.
+
+6️⃣ AI Is Infrastructure — Build the Factories 🏭
+"AI is now infrastructure, and this infrastructure — just like the internet, just like electricity — needs factories." Huang reframed data centers as "AI factories" whose product is tokens, not bits. It's not just a metaphor; it's the policy frame he's pushing in DC to unlock energy permits, grid build-out, and CHIPS-style industrial support for AI compute.
+
+7️⃣ The American AI Stack Should Be the New Dollar 💵
+"Just as the American dollar is the global standard… we should want the American AI stack to be the stack everyone builds on." Huang's grand strategic vision: dominate the developer layer, not just the chip layer. He noted half the world's AI developers are in China — and the U.S. has to actively recruit them onto American hardware, frameworks, and clouds, or cede the global default.
+
+8️⃣ "You Won't Lose Your Job to AI — You'll Lose It to Someone Who Uses AI" 💼
+This now-iconic Huang line is his answer to the labor-displacement panic. He argued that historically, technology shifts don't destroy aggregate employment — they reshape skills and create new categories. He pointed to AI having already created over half a million jobs, and described software engineers not as targets of AI but as the people best positioned to leverage it.
+
+9️⃣ Re-industrialization Through AI 🔧
+A thread running through the entire conversation: AI is the catalyst for reshoring American manufacturing. Robotics + generative design + simulation lets the U.S. compete on cost and speed without competing on cheap labor. Huang sees this as the closest thing to a non-partisan industrial policy America has had in fifty years — and he's lobbying both sides of the aisle to bet on it.
+
+🔟 The Loser's Mindset That Made Him Snap 🧭
+Earlier in April, when pressed on Nvidia's China position, Huang told reporters: "You're not talking to somebody who woke up a loser." On Memos to the President he doubled down — arguing American policy has been written in fear of losing rather than ambition to win. His prescription: stop optimizing for what we deny competitors and start optimizing for what we ship to the world.
+
+⸻
+
+Final Thought
+
+💡 This wasn't a product pitch — it was Jensen Huang positioning himself as the most credible counter-voice in the AI debate. While Altman talks "trust" and Amodei talks "extinction risk," Huang is making a builder's argument: AI is an industrial revolution, the U.S. is leading by inches, and rhetorical doomsaying could squander it. Whether you buy the optimism or not, this is the most coherent pro-AI strategic doctrine any tech CEO has articulated in 2026 — and it's the one currently winning ears in Washington.
+
+#JensenHuang #NVIDIA #AI #PhysicalAI #Robotics #USAvsChina #6G #TechPolicy #AIFactory #Reindustrialization
