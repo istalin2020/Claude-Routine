@@ -1,0 +1,80 @@
+# Tech Leader Post — Sam Altman x Maria Shriver
+
+| Field | Detail |
+|---|---|
+| Date Generated | 2026-05-06 |
+| Video Title | Sam Altman Talks Alzheimer's Research, AI Backlash, More |
+| Speaker | Sam Altman, CEO of OpenAI |
+| Interviewer | Maria Shriver |
+| Channel | TODAY Show |
+| YouTube URL | https://www.youtube.com/watch?v=PD7xkdrQoIM |
+| Thumbnail | https://img.youtube.com/vi/PD7xkdrQoIM/maxresdefault.jpg |
+| Release Date | ~April 29, 2026 (within the past week) |
+| Topic | OpenAI Foundation's $100M Alzheimer's pledge, AI power, energy, and the public backlash |
+
+## Sources
+
+- [Sam Altman Talks Alzheimer's Research, AI Backlash, More — YouTube](https://www.youtube.com/watch?v=PD7xkdrQoIM)
+- [Open AI's Sam Altman on Using AI to Help Alzheimer's Research — TODAY](https://www.today.com/video/sam-altman-talks-alzheimer-s-research-ai-backlash-more-262171205937)
+- [OpenAI's Sam Altman on Using AI to Help Alzheimer's Research — Maria Shriver's Sunday Paper](https://www.mariashriversundaypaper.com/sam-altman-on-using-ai-to-help-alzheimers-research/)
+- [AI for Alzheimer's — OpenAI Foundation](https://openaifoundation.org/news/ai-for-alzheimers)
+- [OpenAI Foundation partners with Bay Area institutions on $100M Alzheimer's research — Local News Matters](https://localnewsmatters.org/2026/04/13/alzheimers-research-initiative-openai-foundation/)
+- [The OpenAI Foundation's New Alzheimer's Effort Helps Demystify 'AI Will Cure All Diseases' — Gizmodo](https://gizmodo.com/the-openai-foundations-new-alzheimers-effort-helps-demystify-ai-will-cure-all-diseases-2000744304)
+- [AI Can Fast-track Better Diagnostics, Cure For Alzheimer's, Says OpenAI's Sam Altman — Health and Me](https://www.healthandme.com/health-news/ai-can-fast-track-better-diagnostics-cure-for-alzheimers-says-openais-sam-altman-article-154186416)
+- [The $100 Million AI Initiative: A New Hope for Alzheimer's Research — Medindia](https://www.medindia.net/news/healthinfocus/the-100-million-ai-initiative-a-new-hope-for-alzheimers-research-223219-1.htm)
+- [Sam Altman's second thoughts — Platformer](https://www.platformer.news/sam-altman-ai-backlash/)
+- [Sam Altman gets defensive about AI's massive electricity usage — Fortune](https://fortune.com/2026/02/24/sam-altman-open-ai-electricity-usage-water-usage-data-centers-ceo-tech/)
+
+---
+
+## Formatted X Post
+
+🚀 Sam Altman: "I Don't Think This Much Power Should Be in the Hands of One Person"
+
+🎥 https://www.youtube.com/watch?v=PD7xkdrQoIM
+
+OpenAI's CEO sat down with Maria Shriver for his most personal interview yet — pledging $100M to cure Alzheimer's while staring down a growing public backlash against AI. It's part mea culpa, part manifesto for AI's role in medicine.
+
+Here's what he actually said:
+
+⸻
+
+Key Takeaways
+
+1️⃣ $100M Bet on Curing Alzheimer's 🧠
+"AI can fast-track better diagnostics, treatments, and even a cure." Altman announced the OpenAI Foundation is finalizing $100M in grants to six research institutions targeting Alzheimer's — one of medicine's most stubborn problems. It's the Foundation's first major scientific bet and a personal moment for Shriver, whose own father lived with the disease.
+
+2️⃣ The Trust Question, Head On 🛡️
+"I don't think this much power should be in the hands of one person nor do I think it is." Pressed on whether any single CEO should steer humanity's most powerful technology, Altman pushed back on the framing itself. The answer comes as a New Yorker exposé and the ongoing Musk v. OpenAI trial put his trustworthiness center stage.
+
+3️⃣ Diseases Cured at "Unprecedented Rate" ⚡
+"I believe that as this technology progresses, we will see diseases get cured at an unprecedented rate." Altman framed Alzheimer's as a proof of concept for AI's ability to reason across messy biological data. He says cancer, heart disease, and other big killers are next on the list.
+
+4️⃣ Bay Area Powerhouses Lead the Charge 🔬
+The grants flow to UCSF, the Arc Institute, the UW Institute for Protein Design, and three other partners. They'll map disease pathways, design new drugs in silico, and build open datasets for predicting drug activity. It's a deliberate move to keep the science open instead of locking it behind OpenAI's walls.
+
+5️⃣ Energy Reckoning: Go Nuclear, Now ⚛️
+"We need to move toward nuclear, or wind, or solar very quickly." Altman conceded that AI's total energy footprint is a legitimate concern — not per query, but at civilization scale. His fix: skip the hand-wringing and aggressively build clean baseload power.
+
+6️⃣ The Quote That Set the Internet on Fire 🔥
+"It also takes a lot of energy to train a human. It takes, like, 20 years of life, and all of the food you eat during that time before you get smart." His comparison of AI training to raising a child went viral, drawing sharp criticism from tech leaders like Zoho's Sridhar Vembu, who replied: "I do not want to see a world where we equate a piece of technology to a human being."
+
+7️⃣ Alzheimer's Is Just the Opening Move 💰
+The $100M pledge is the first slice of a $1 billion OpenAI Foundation commitment spanning life sciences, AI safety, and economic-impact research. Altman framed it as the model going forward: pick the world's hardest problems, throw compute and capital at them. Critics call it a hedge against rising regulation; supporters call it the blueprint AI labs should copy.
+
+8️⃣ Owning the Backlash 😬
+Altman acknowledged the public hostility toward AI is real — and in some cases, dangerous, after physical attacks on his own home earlier this year. He didn't dismiss the fear, instead pointing to medicine as the kind of tangible win that can rebuild public trust. "AI will also present new threats to society" was the unspoken counterweight to every promise.
+
+9️⃣ Open Data, Not Walled Gardens 📊
+A core grant pillar funds open datasets for predicting drug activity and tracking disease progression. The move is striking from the lab that gets criticized for being anything-but-open. It's a tacit admission that progress on Alzheimer's needs collaboration the AI industry rarely practices.
+
+🔟 A New Social Contract for AI 🤝
+Altman has called for a "New Deal" for the superintelligence era, and this interview was his pitch in plain English: deliver real-world breakthroughs, accept democratic oversight, and stop pretending one company can carry it alone. Whether the public buys it is another question — but the framing has shifted from "trust us" to "watch what we ship."
+
+⸻
+
+Final Thought
+
+💡 This wasn't a victory lap — it was Altman repositioning OpenAI from frontier-model hype to civilizational utility. If the Alzheimer's bet works, it becomes the strongest argument yet that AI's costs are worth its benefits. If it doesn't, the backlash he's trying to defuse will only get louder.
+
+#SamAltman #OpenAI #AI #Alzheimers #HealthTech #ArtificialIntelligence #TechNews #MariaShriver #AIforGood
