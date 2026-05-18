@@ -1,0 +1,78 @@
+# Tech Leader Post — 2026-05-18
+
+## Metadata
+
+| Field | Detail |
+|---|---|
+| Date Generated | 2026-05-18 |
+| Video Title | 2026 CMU Commencement Keynote Speaker: Jensen Huang |
+| Speaker | Jensen Huang (Founder & CEO, NVIDIA) |
+| Venue / Interviewer | Carnegie Mellon University — 128th Commencement Ceremony, Gesling Stadium |
+| YouTube URL | https://www.youtube.com/watch?v=FZh_0uRgrg4 |
+| Thumbnail | https://img.youtube.com/vi/FZh_0uRgrg4/maxresdefault.jpg |
+| Release Date | May 10, 2026 |
+
+## Sources
+
+- [NVIDIA Blog — 'Your Career Starts at the Beginning of the AI Revolution'](https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/)
+- [Carnegie Mellon University News — 'Shape What Comes Next'](https://www.cmu.edu/news/stories/archives/2026/may/nvidia-founder-ceo-jensen-huang-to-carnegie-mellon-university-graduates-shape-what-comes-next)
+- [Axios — Jensen Huang to college grads: 'Run. Don't walk' toward AI](https://www.axios.com/2026/05/11/jensen-huang-carnegie-mellon-commencement-ai)
+- [The Next Web — 'Your career starts at the AI revolution'](https://thenextweb.com/news/jensen-huang-carnegie-mellon-ai-revolution)
+- [Entrepreneur — Surprising Message for Graduates Worried AI Will Take Their Jobs](https://www.entrepreneur.com/business-news/nvidia-ceo-jensen-huang-ai-jobs-message-for-graduates-commencement-speech)
+- [SingjuPost — Full Speech Transcript](https://singjupost.com/jensen-huangs-2026-cmu-commencement-speech-transcript/)
+- [Pittsburgh Post-Gazette — CMU Commencement coverage](https://www.post-gazette.com/news/education/2026/05/10/jensen-huang-nvidia-cmu-commencement/stories/202605100108)
+- [YouTube — 2026 CMU Commencement Keynote Speaker: Jensen Huang](https://www.youtube.com/watch?v=FZh_0uRgrg4)
+
+---
+
+## X Post (Ready to Publish)
+
+🚀 Jensen Huang: "Run, Don't Walk" — NVIDIA's CEO Just Gave the Class of 2026 the Most Important Career Speech of the AI Era
+
+🎥 https://www.youtube.com/watch?v=FZh_0uRgrg4
+
+In a packed Gesling Stadium, the world's most valuable chipmaker's founder told 5,800 graduates they're standing on the launchpad of a new industrial revolution. This wasn't a victory lap — it was a battle cry.
+
+Here's what he actually said:
+
+⸻
+
+Key Takeaways
+
+1️⃣ "Run. Don't Walk." 🏃‍♂️
+"No generation has entered the world with more powerful tools or greater opportunities than you. We are all standing at the same starting line. This is your moment to help shape what comes next. So run, don't walk." Huang reframed AI not as a threat but as the great equalizer — a once-in-history reset where 22-year-olds and 60-year-old CEOs begin at the same line. The urgency wasn't subtle: hesitate and the wave passes you by.
+
+2️⃣ AI Won't Take Your Job — Someone Using AI Will 🤖
+Huang directly addressed the elephant in the stadium: "AI will not likely replace individual workers, but people who use AI well could replace people without AI skills." It was a deliberately surgical rebuttal of the doomer narrative dominating headlines. The message: fluency, not fear, is the new career moat.
+
+3️⃣ The Four Imperatives 🧭
+Huang anchored the speech in four commands for the generation: "Advance safely. Create thoughtful policies. Make AI broadly accessible. And encourage everyone to engage." It's effectively NVIDIA's public AI doctrine compressed into 12 words — and a direct contrast to the "move fast and break things" ethos of the last tech cycle. Safety and access were placed on equal footing with speed.
+
+4️⃣ Reindustrialize America 🏗️
+"This is a once-in-a-generation opportunity to reindustrialize America and restore the nation's capacity to build." Huang described AI infrastructure as the largest technology buildout in human history — chip fabs, data centers, power grids. For a CEO whose company is the picks-and-shovels of this gold rush, the framing tied NVIDIA's roadmap directly to American industrial policy.
+
+5️⃣ The Trades Are an AI Career 🔧
+In the speech's most surprising pivot, Huang told CMU graduates that the AI economy needs "plumbers, electricians, ironworkers, and builders" as much as it needs ML engineers. Data centers don't pour their own concrete and chip fabs don't wire themselves. He elevated the trades from "left behind" to "frontline of the AI revolution" — a rare political-economic message from a Silicon Valley CEO.
+
+6️⃣ The First-Generation Immigrant Origin Story 🇺🇸
+"Like many in this audience, I am a first-generation immigrant. My parents came here because they believed America could give their children a chance." Huang — now leading a multi-trillion-dollar company — used his story to argue that the door he walked through must remain open. In a year of intense debate over high-skill immigration, the line landed loudest.
+
+7️⃣ Capability and Safety Must Move Together ⚖️
+"The responsibility of our generation is not only to advance AI — but to advance it wisely. Scientists and engineers have a profound responsibility to advance AI capabilities and AI safety together." Huang explicitly rejected the false choice between progress and protection. Coming from the CEO selling the GPUs powering every frontier lab, this was the most-quoted line in the press recap.
+
+8️⃣ CMU: The Birthplace of AI 🤝
+Huang acknowledged Carnegie Mellon as "one of the true birthplaces of artificial intelligence and robotics" — a deliberate nod to the school that built the first self-driving car and trained generations of roboticists. It was also a strategic message: the next NVIDIA-scale company may be sitting in that stadium, and Jensen wants the recruiting pipeline.
+
+9️⃣ A New Industry Is Being Born 🌅
+"Class of 2026, you are entering the world at an extraordinary moment. A new industry is being born. A new era of science and discovery is beginning. AI will accelerate the expansion of human knowledge and help solve problems once beyond our reach." This wasn't hype — Huang frames AI as a general-purpose technology on par with electricity or the internet, with the same multi-decade compounding effects. The implication: every industry is now an AI industry.
+
+🔟 "Put Your Heart in the Work" ❤️
+Huang closed by invoking CMU's motto from Andrew Carnegie: "My heart is in the work. So put your heart in the work. Build something worthy of your education, your potential, and the people who believed in you long before the world did." It's a deliberate counter-message to the burnout-and-quit-lit culture of the 2020s — and a reminder that the world's most powerful AI chips were built by people who refused to phone it in.
+
+⸻
+
+Final Thought
+
+💡 Jensen Huang has spent the last three years repeating the same message to investors, governments, and now graduates: the AI revolution isn't coming — it's already here, and the only question is who builds it. By speaking at CMU — the school that arguably invented modern AI — and casting graduates as the protagonists of the next industrial era, he just turned a commencement into the most important career speech of the decade. The line everyone will remember: run, don't walk.
+
+#JensenHuang #NVIDIA #AI #Tech #CarnegieMellon #AIRevolution #FutureOfWork #ClassOf2026
