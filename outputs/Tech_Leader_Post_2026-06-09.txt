@@ -1,0 +1,49 @@
+🚀 Jensen Huang: "Useful AI Has Arrived" — Nvidia's Vera Rubin Era Begins
+
+🎥 https://www.youtube.com/watch?v=q_umfWm8J28
+
+Nvidia's CEO just declared the end of the AI experimentation era and the start of agentic computing — on stage in Taipei, in front of 70+ watch parties across the island. This is the speech that re-set how every company will buy, build, and run AI for the next decade.
+
+Here's what he actually said:
+
+⸻
+
+Key Takeaways
+
+1️⃣ Agentic AI Has Officially Arrived 🤖
+"Today we can say that agentic AI has arrived, that useful AI has arrived." Huang declared the industry has crossed the chasm from demos to dollars — agents that reason, plan, use tools, and remember are now generating real economic output. He cited GitHub commits nearly tripling in the first months of 2026 as proof that autonomous agents are already reshaping how software gets built.
+
+2️⃣ Vera Rubin Enters Full Production 🏭
+"Vera Rubin is the most ambitious endeavor in the history of our company." The successor to Blackwell is no longer a roadmap slide — it's a fully co-designed rack-scale system shipping in fall 2026, built with 150 Taiwanese supply-chain partners. This is the platform every hyperscaler and sovereign AI buyer will be writing checks for in 2027.
+
+3️⃣ Nvidia + Microsoft Reinvent the PC With RTX Spark 💻
+Huang and Microsoft unveiled RTX Spark, a new superchip that turns Windows PCs into local agentic AI machines capable of running personal agents on-device. "We're reinventing the PC for the era of personal AI agents." It's Nvidia's first serious push into the CPU-class consumer chip market — and a direct shot at Apple Silicon.
+
+4️⃣ The Agent Is the New Operating System 🧠
+"The large language model is used to do the thinking and the harness connects everything together just like an operating system." Huang reframed the entire software stack: agents are not features bolted on top of apps — they ARE the new app, orchestrating tools, memory, and reasoning the way Windows once orchestrated files and processes. Every SaaS company should be terrified or thrilled.
+
+5️⃣ AI Is Now a GDP Generator 💰
+"AI is now a profit generator. AI is now a GDP generator." Huang argued AI has graduated from an R&D line item to a macroeconomic force, citing real productivity gains across coding, customer support, and design. This is the line CFOs and finance ministers will be quoting in board meetings for the next year.
+
+6️⃣ Taiwan Crowned the World's AI Workshop 🇹🇼
+"We did this with Taiwan… the world's best supply chain ecosystem." Huang spent extended airtime thanking TSMC, Foxconn, Pegatron, Quanta, Wistron, and a dozen more partners — and announced Foxconn is co-building a Taiwan AI factory with Nvidia. It's a geopolitical statement as much as a business one: the AI economy runs through Taipei.
+
+7️⃣ Open Models Get Real: Nemotron 3 Ultra + Alpamayo 2 🌐
+"We open the model, we open the data, and we even open how we trained it." Nvidia launched Nemotron 3 Ultra for long-running enterprise agents and Alpamayo 2 — an open model for self-driving cars and Level-4 robotaxis. After years of being seen as a closed-stack vendor, Nvidia is now competing with Meta's Llama and DeepSeek on openness.
+
+8️⃣ Physical AI Is the Next Wave 🦾
+"The next wave is physical AI." Huang unveiled Cosmos 3, an open world-model for robotics, and Isaac GR00T, a humanoid reference platform for academic research. He framed autonomous cars as "physical AI, an agentic robot" — signaling Nvidia sees factories, warehouses, and roads as the next trillion-dollar compute market after data centers.
+
+9️⃣ A New Industrial Revolution Is Underway ⚙️
+"AI has ignited a new industrial revolution — science and industry will be transformed." Huang positioned AI factories as the power plants of the 21st century, with Nvidia GPUs as the turbines. He pointed to drug discovery, materials science, and chip design as the first frontiers being rewritten in real time.
+
+🔟 Every Company Becomes an Agent Company 🌍
+"Every company will run it. Every company will be an agent company." Huang's closing line landed like a thesis: the agentic computing pattern is replicating across clouds, PCs, robots, satellites, base stations, and factories. If you're a CEO without an agent strategy by 2027, you're already a legacy company.
+
+⸻
+
+Final Thought
+
+💡 This wasn't just a product keynote — it was Jensen Huang drawing the new map of computing. Vera Rubin, RTX Spark, open models, and physical AI all point at one conclusion: Nvidia is no longer a chip company, it's the operating layer of the AI economy. The decade-defining question is no longer "will AI work?" — it's "are you building on Nvidia's stack, or trying to compete with it?"
+
+#JensenHuang #Nvidia #AI #AgenticAI #VeraRubin #GTC2026 #Tech #Taiwan #FutureOfAI
