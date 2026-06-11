@@ -1,0 +1,49 @@
+🚀 Sam Altman: The $45B Stargate Bet, Why "Coding Is The Magic," and the Quiet Start of Ambient AI
+
+🎥 https://www.youtube.com/watch?v=w271qzmkNk0
+
+Standing on a Michigan field where OpenAI is pouring $45B+ into the largest AI buildout in history, Sam Altman sat down with CNBC's David Faber for a wide-ranging interview on demand, jobs, the IPO question, and what comes after the chatbot era. He was unusually candid — about anxiety, about cost, about what the world still doesn't grasp.
+
+Here's what he actually said:
+
+⸻
+
+Key Takeaways
+
+1️⃣ "The World Hasn't Appreciated How Much AI Every Person and Business Is Going To Want" 🌍
+"We still don't think the world has appreciated how much A.I., every person and every business is going to want." Standing at the Stargate Michigan groundbreaking, Altman made the case that today's compute demand is barely the warm-up — and that's why OpenAI is comfortable committing tens of billions to a single Saline Township site. If he's right, every analyst projection of AI infrastructure spend is still too low.
+
+2️⃣ Ambient AI Is Coming — Goodbye to the Prompt 🌫️
+"Right now, you still send a request to an A.I., and it does something for you and gives you an answer back. But very soon, an A.I. will just be running for you in the background all the time — helping you with your job, looking at all your information, aware of all your context, doing as much as it possibly can to help." This is the clearest description Altman has given of OpenAI's post-chat product vision: an always-on agent layer that quietly observes, reasons and acts. It's a tectonic shift from "ChatGPT, do this" to AI that already did it.
+
+3️⃣ "Coding Is The Magic Right Now" 💻
+"The coding models have so transformed how companies are doing their work, and the efficiency and the speed at which they're able to build products. The coding models got really good late last year, early this year, and then another step forward in recent months." Altman flatly named coding as the single biggest driver of OpenAI's demand surge — not chat, not images, not video. That maps to the GPU shortage every founder feels, and helps explain why OpenAI's enterprise contracts are being signed at unprecedented size.
+
+4️⃣ Stargate Michigan: $45B, 1 Gigawatt, And "Very Confident" On ROI ⚡
+"One gigawatt is a huge amount of compute, but we understand what demand looks like and how much people want to use these models." Altman said OpenAI is "very confident" the $45B+ Michigan investment with Oracle will pay back, because the company sees demand signals customers and analysts don't. The Saline Township site is one of multiple Stargate campuses now under construction, with more to be announced.
+
+5️⃣ "People Are Right To Be Anxious" — Altman's Most Honest Risk Moment 😬
+"I think we have failed to articulate as an industry how people stay in control of determining the future at every step, and have a really meaningful life in all the ways we care about." Altman conceded that public anxiety about AI is legitimate and that the industry has not earned trust on autonomy, safety, or meaning. Coming from the CEO who has spent two years selling abundance, this is a striking admission — and a tell about how serious the political pressure has gotten heading into the Stargate buildout.
+
+6️⃣ Layoff Headlines Are Coming From AI's Slowest Adopters 🔄
+"The companies that I know that have adopted AI the most are also the ones hiring the most. And the companies, as a general rule, that are talking about doing layoffs because of AI are the ones adopting AI the least." Altman flipped the dominant 2026 jobs narrative on its head — implying that "AI layoffs" press releases are often cover stories for companies that fell behind, not proof that AI is destroying jobs. If true, the labor story of the next two years is very different from the one Wall Street is pricing in.
+
+7️⃣ Falling Token Prices, Exploding Token Demand — Jevons in Real Time 📉📈
+"The price of compute, the price of tokens continues to come down… but demand to use those tokens at the lower price goes up." Altman described the AI economy as a textbook Jevons paradox: every order-of-magnitude price drop pulls in workloads that were previously uneconomic, more than offsetting the unit-price decline. That's the bull case for why Stargate's gigawatts aren't overbuilding — they're underbuilding.
+
+8️⃣ The IPO: "Not Focused On The Timing" — Anthropic Can Race Alone 🏛️
+"I just heard" Anthropic had confidentially filed its IPO prospectus, Altman told Faber — adding, "Going public is a financing event, and I don't think that's one that we're focused on the timing of." Translation: OpenAI is not in a sprint to beat Anthropic to the public markets and will list when capital needs and structure align. For a company reportedly valued at $500B+, that patience itself is a flex.
+
+9️⃣ AI Is Becoming A Utility — Like Electricity, Water, And Internet 💡
+Across the broader 2026 circuit, Altman has been increasingly explicit that AI is on track to become a metered, paid utility — and at Stargate Michigan he reinforced the framing by talking about gigawatts, grid policy, and per-token pricing in the same breath. The point isn't analogy — it's that AI's cost structure, regulation, and societal expectations should now be benchmarked against power and broadband. That has enormous implications for pricing, antitrust, and access.
+
+🔟 Data Centers In Space? "We're Focused On Building On Earth For Now" 🚀
+Asked about the buzzy idea of orbital data centers, Altman batted it away with a smile: "We're focused on building on Earth for now." Behind the joke is a serious message — OpenAI's bottleneck is permitting, power, transformers and land, not exotic architectures. Solving terrestrial energy is the real moonshot.
+
+⸻
+
+Final Thought
+
+💡 This was Sam Altman in a different mode — less manifesto, more operator. He named coding as the workload that's actually paying for the gigawatts, conceded that the industry has failed to make the public feel in control, and quietly previewed an "ambient AI" era that retires the prompt itself. If you want to understand where the next $500B of AI capex, the IPO race, and the labor narrative are all heading, this is the 2026 interview to watch.
+
+#SamAltman #OpenAI #Stargate #AI #AGI #ChatGPT #DataCenters #AIJobs #Tech #FutureOfAI
