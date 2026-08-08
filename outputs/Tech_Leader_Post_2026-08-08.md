@@ -1,0 +1,82 @@
+# Tech Leader Post — 2026-08-08
+
+## Metadata
+
+| Field | Value |
+|---|---|
+| Date | 2026-08-08 |
+| Video Title | Jensen Huang says the AI doomers have it wrong |
+| Speaker | Jensen Huang (CEO, Nvidia) |
+| Interviewer | Mike Allen (Axios co-founder) |
+| Series | Axios "Behind the Curtain" |
+| YouTube URL | https://www.youtube.com/watch?v=fr1IQspixmM |
+| Release Date | July 22–23, 2026 |
+| Length | ~1 hour |
+| Thumbnail | https://i.ytimg.com/vi/fr1IQspixmM/maxresdefault.jpg |
+
+## Sources
+
+- [Axios interview: Jensen Huang is AI's anti-doom evangelist](https://www.axios.com/2026/07/23/axios-interview-jensen-huang-is-ais-anti-doom-evangelist)
+- [Nvidia CEO to Washington: Don't fall for "science fiction" AI fear](https://www.axios.com/2026/07/23/nvidia-ceo-kimi-ai-fears-trump-washington)
+- [Exclusive: Nvidia's Jensen Huang defends Chinese AI amid Kimi panic](https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai)
+- [Nvidia CEO Jensen Huang foresees AI job boom (Axios)](https://www.axios.com/2026/07/24/nvidia-jensen-huang-ai-jobs)
+- [Jensen Huang calls the AI jobs panic 'complete nonsense' (TNW)](https://thenextweb.com/news/jensen-huang-ai-jobs-doom-nonsense-axios)
+- [Nvidia CEO Jensen Huang Calls AI Doom Talk "Complete Nonsense" (Insider Gaming)](https://insider-gaming.com/nvidia-ceo-jensen-huang-calls-ai-doom-talk-complete-nonsense/)
+- [Nvidia CEO Jensen Huang denies the chip boom will go bust soon (Fortune)](https://fortune.com/2026/07/25/nvidia-ceo-jensen-huang-chip-stocks-boom-bust-soon-this-time-is-different/)
+- [Nvidia's Jensen Huang Says Export Controls Have Largely Backfired (FourWeekMBA)](https://fourweekmba.com/ai-nvidia-jensen-huang-export-controls-backfired-open-source-ai/)
+- [YouTube: Jensen Huang says the AI doomers have it wrong](https://www.youtube.com/watch?v=fr1IQspixmM)
+- [Axios on X — Huang defends Kimi and open-source AI](https://x.com/axios/status/2079853973893439709)
+
+---
+
+## X POST (ready to paste)
+
+🚀 Jensen Huang: The Anti-Doom Evangelist — Nvidia's CEO Just Torched Silicon Valley's Doomers
+
+🎥 https://www.youtube.com/watch?v=fr1IQspixmM
+
+In an hour-long Axios "Behind the Curtain" sit-down with Mike Allen, Nvidia CEO Jensen Huang went scorched-earth on the AI doomer narrative. He also defended Chinese open-source models, told Washington to stop legislating from science fiction, and doubled down on the chip boom.
+
+Here's what he actually said:
+
+⸻
+
+Key Takeaways
+
+1️⃣ Doomerism Is "Complete Nonsense" 💥
+"The fact that this is going to be the end of humanity — it's complete nonsense. The fact that this is going to destroy half of the American jobs is complete nonsense." Huang's message to the tech leaders selling AI-apocalypse narratives is unusually blunt for a CEO of his stature. He argues doomers "spend too much time theorizing about these science fiction outcomes" because "maybe it makes them sound smart."
+
+2️⃣ AI Will Create Jobs, Not Erase Them 💼
+"While we're automating all of these different tasks, it's actually increasing the amount of jobs that the world needs." Huang argues the panic about mass job destruction ignores how automation historically raises the ceiling on demand. Every past productivity leap grew the total number of jobs, and he believes AI will do the same.
+
+3️⃣ The Radiology Proof Point 🩻
+Huang points to radiology as the counter-example the doomers ignore: AI can read the scans, but the actual job is "ending suffering and guiding patients," which doesn't vanish. The number of radiologists is up roughly 20%, because AI lets each one see more patients. It's a live case study of AI expanding a profession the industry claimed it would kill.
+
+4️⃣ Chinese Open-Source Models Are "Excellent" 🇨🇳
+"These Chinese models are excellent. Open-source models that are excellent should be used." Huang broke ranks with much of Washington and Silicon Valley by defending Moonshot's Kimi model — even after the White House accused Moonshot of distilling Anthropic's tech. His view: great open-source AI, regardless of origin, is fuel for the whole ecosystem.
+
+5️⃣ Wall Street Keeps Misreading the Chip Story 📉➡️📈
+"The market misunderstood the impact of DeepSeek the first time. They misunderstood the impact of Kimi again this time." Every time a cheaper open model drops, Nvidia's stock takes a hit — and Huang says that reaction is exactly backwards. Cheaper models mean more usage, which means more inference, which means more chips.
+
+6️⃣ "Free AI Should Be Great for Nvidia" 🎁
+"Free AI should be great for hardware. Free AI should be great for chips. Free AI should be great for data centers." It's the counterintuitive core of his thesis: commoditizing intelligence expands the market for the picks and shovels. If AI is free, everyone uses it — and someone has to run the compute.
+
+7️⃣ Export Controls "Largely Backfired" 🚧
+Huang bluntly said US chip export controls on China have "largely backfired." Restricting Nvidia's China sales didn't slow Chinese AI development — it accelerated it by forcing China to build a domestic hardware and software stack that now fills the gap. That homegrown stack is what's producing models like Kimi.
+
+8️⃣ Washington: Stop Legislating From Sci-Fi 🏛️
+Huang wants Washington to stop letting "science fiction" about AI drive policy, warning that overreaction will slow US adoption and hand the competitive edge to rivals. "It's fine to warn people. It's absolutely inappropriate to make things up." Coming from the CEO whose chips power the entire boom, it's a direct shot at the loudest safety hawks.
+
+9️⃣ AI Is Not a 100-Meter Dash 🏁
+Huang pushed back on the "one winner takes all" framing driving so much AGI panic. AI isn't a sprint — it's an infrastructure buildout that will run for decades, across every country, industry and job function. Framing it as a race with a single finish line is exactly the thinking he says leads to bad policy.
+
+🔟 "This Time Is Different" on the Chip Boom 📊
+Asked whether the chip boom is heading for a bust, Huang actually uttered the infamous four words: "This time is different." His argument is that we're not in a speculative cycle — we're in a physical infrastructure buildout, where every dollar of chips converts into working AI factories that generate revenue. The demand curve, he says, is real.
+
+⸻
+
+Final Thought
+
+💡 Huang has effectively appointed himself the anti-doomer in a room full of tech CEOs who have made hedging on existential risk into a brand. Whether you buy his optimism or not, the interview reframes the entire debate: the man selling the shovels is arguing the gold rush is real, jobs will grow, and the loudest voices warning about extinction are — in his words — making things up. That's a fight worth watching, because whichever narrative wins in Washington shapes the next decade of AI.
+
+#JensenHuang #Nvidia #AI #TechLeaders #AIDoomers #OpenSource #ChipWars #Kimi #DeepSeek #FutureOfWork
